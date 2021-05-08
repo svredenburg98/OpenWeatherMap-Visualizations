@@ -1,5 +1,4 @@
-# python-api-challenge
-
+# Open Weather Map API Visualizations
 #WeatherPY
 
 Using the Open Weather Map API, I randomly generated a list of cities using a random number generator to create coordinates and citipy to get cities based on those coordinates. I had to generate 1300 coordinates to get a list of over 500 cities after deleting all duplicates. I then found weather data for all the cities and put it into a new data frame which I then used with the matplotlib library to create some visualizations on various weather information. 
